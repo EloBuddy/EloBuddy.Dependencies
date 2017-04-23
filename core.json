@@ -1,0 +1,233 @@
+{
+  "core": [
+    {
+      "md5": [
+        "09de5e8d6e1317e5eb7838ed70962347"
+      ],
+      "build": "493",
+      "changes": [
+        "fix crashes"
+      ]
+    },
+    {
+      "md5": [
+        "0eb2eb8d18a4fd72ff3084d0df2d7226"
+      ],
+      "build": "494",
+      "changes": [
+        "fix HPBarPosition issues"
+      ]
+    },
+    {
+      "md5": [
+        "e4c960c5cc3ff6bc49d3f26aeb9a14cc"
+      ],
+      "build": "495",
+      "changes": [
+        "updated for Garena 7.1"
+      ]
+    },
+    {
+      "md5": [
+        "a551b67731ef30683b6e391bf80f6392"
+      ],
+      "build": "496",
+      "changes": [
+        "updated for Garena 7.11-HF"
+      ]
+    },
+    {
+      "md5": [
+        "433ef908c4ca30536e184dc29d4ed637"
+      ],
+      "build": "497",
+      "changes": [
+        "Garena updated and fixed"
+      ]
+    },
+    {
+      "md5": [
+        "37792e2258a03d294ed73a15afbfa55c"
+      ],
+      "build": "498",
+      "changes": [
+        "updated for 7.1-hf"
+      ]
+    },
+    {
+      "md5": [
+        "7ab86bd70ceddd3de436bfd631ff65cc"
+      ],
+      "build": "499",
+      "changes": [
+        "fixed TacticalMap.WorldToMinimap "
+      ]
+    },
+    {
+      "md5": [
+        "39b24b846212c93ef2d18aab0333ef1a"
+      ],
+      "build": "500",
+      "changes": [
+        "fixed Obj_AI_Base.Direction"
+      ]
+    },
+    {
+      "md5": [
+        "60b9abe5e0a94c0c8cce53ab1b81e75c"
+      ],
+      "build": "501",
+      "changes": [
+        "API fixes and security updates"
+      ]
+    },
+    {
+      "md5": [
+        "4753251f76b4875c841abbd768848a6d"
+      ],
+      "build": "502",
+      "changes": [
+        "updated for patch 7.2"
+      ]
+    },
+    {
+      "md5": [
+        "2c13fa2c0a97338e700f0ca0efbcf2a5"
+      ],
+      "build": "503",
+      "changes": [
+        "patch 7.2 fixes"
+      ]
+    },
+    {
+      "md5": [
+        "45de513b1efcbaf4e720235bafbcbf9b"
+      ],
+      "build": "504",
+      "changes": [
+        "patch 7.2 orbwalker fixes"
+      ]
+    },
+    {
+      "md5": [
+        "48f30024fc7cd9a7c9ee1f72ea97cb32"
+      ],
+      "build": "505",
+      "changes": [
+        "fix SData.MissileSpeed / Orbwalker issues"
+      ]
+    },
+    {
+      "md5": [
+        "bc8b05a7e7458fb51ce51291634bef31"
+      ],
+      "build": "506",
+      "changes": [
+        "fix cooldown tracking"
+      ]
+    },
+    {
+      "md5": [
+        "1d3bbb1328c8dddc7d7a13eded4a0511"
+      ],
+      "build": "507",
+      "changes": [
+        "fix cooldown tracking-2"
+      ]
+    },
+    {
+      "md5": [
+        "bb88a07a72c9d212e643a286c16ef6ab"
+      ],
+      "build": "508",
+      "changes": [
+        "API fixes"
+      ]
+    },
+    {
+      "md5": [
+        "1af46a259bfe8733d7a5c9bdc77dda2f"
+      ],
+      "build": "509",
+      "changes": [
+        "updated for 7.2-hf"
+      ]
+    },
+    {
+      "md5": [
+        "95c1c03e8b600e32585d6ecfb33f567d"
+      ],
+      "build": "531",
+      "changes": [
+        "updated for 7.3"
+      ]
+    },
+    {
+      "md5": [
+        "d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      "build": "532",
+      "changes": [
+        "Fixed: Player.DoEmote (this fixes Riven Add-ons)",
+        "Fixed: Hacks.DisableDrawings",
+        "Fixed: Game.Version"
+      ]
+    },
+    {
+      "md5": [
+        "a11c95aa042c67540cd5a0f2f4fba2ad"
+      ],
+      "build": "600",
+      "changes": [
+        "updated for 7.4"
+      ]
+    },
+    {
+      "md5": [
+        "b68c2c221e169251c011515b8aab15a1"
+      ],
+      "build": "610",
+      "changes": [
+        "updated for 7.5"
+      ]
+    },
+    {
+      "md5": [
+        "46505666972028655802387e810117d3"
+      ],
+      "build": "611",
+      "changes": [
+        "updated for 7.6-hf",
+		"orbwalker issues fixed"
+      ]
+    },
+    {
+      "md5": [
+        "f911c730b8f783f6cfcc96706310a177"
+      ],
+      "build": "611",
+      "changes": [
+        "crashes fixed",
+      ]
+    },
+    {
+      "md5": [
+        "3d723ae88a3c86164a530d4cdf6d65ba"
+      ],
+      "build": "615",
+      "changes": [
+        "updated for patch 7.8",
+		"various API fixes"
+      ]
+    },
+    {
+      "md5": [
+        "d4b71bb951850b56f86a8d57a2b511ec"
+      ],
+      "build": "616",
+      "changes": [
+        "Fixed Crashes for Windows 7 users"
+      ]
+    }
+  ]
+}
