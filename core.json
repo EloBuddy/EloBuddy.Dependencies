@@ -198,7 +198,7 @@
       "build": "611",
       "changes": [
         "updated for 7.6-hf",
-		"orbwalker issues fixed"
+        "orbwalker issues fixed"
       ]
     },
     {
@@ -207,7 +207,7 @@
       ],
       "build": "611",
       "changes": [
-        "crashes fixed",
+        "crashes fixed"
       ]
     },
     {
@@ -217,7 +217,7 @@
       "build": "615",
       "changes": [
         "updated for patch 7.8",
-		"various API fixes"
+        "various API fixes"
       ]
     },
     {
@@ -227,6 +227,15 @@
       "build": "616",
       "changes": [
         "Fixed Crashes for Windows 7 users"
+      ]
+    },
+    {
+      "md5": [
+        "64c36e00c54f9482dcdc8d14318e298b"
+      ],
+      "build": "620",
+      "changes": [
+        "API fixes"
       ]
     }
   ]
