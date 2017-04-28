@@ -237,6 +237,15 @@
       "changes": [
         "API fixes"
       ]
+    },
+    {
+      "md5": [
+        "64c36e00c54f9482dcdc8d14318e298b"
+      ],
+      "build": "621",
+      "changes": [
+        "updated for 7.8-hf"
+      ]
     }
   ]
 }
