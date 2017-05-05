@@ -273,6 +273,15 @@
       "changes": [
         "updated GameType enumeration"
       ]
+    },
+    {
+      "md5": [
+        "104a92a0967e225370d47801726966a0"
+      ],
+      "build": "643",
+      "changes": [
+        "fix Obj_AI_Base.IsRanged/IsMelee (fixes orbwalker issues)"
+      ]
     }
   ]
 }
