@@ -282,6 +282,15 @@
       "changes": [
         "fix Obj_AI_Base.IsRanged/IsMelee (fixes orbwalker issues)"
       ]
+    },
+    {
+      "md5": [
+        "74be869de4bea25fe89a26b91e8154e5"
+      ],
+      "build": "644",
+      "changes": [
+        "anti-cheating update"
+      ]
     }
   ]
 }
