@@ -246,6 +246,15 @@
       "changes": [
         "updated for 7.8-hf"
       ]
+    },
+    {
+      "md5": [
+        "58eb329dd79bca007ee4cd2f741448db"
+      ],
+      "build": "640",
+      "changes": [
+        "updated for patch 7.9"
+      ]
     }
   ]
 }
