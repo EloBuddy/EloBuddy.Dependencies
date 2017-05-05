@@ -264,6 +264,15 @@
       "changes": [
         "fixed some SpellData properties"
       ]
+    },
+    {
+      "md5": [
+        "ea0b51aebb1cb39b9f18a2ea7f178d2c"
+      ],
+      "build": "642",
+      "changes": [
+        "updated GameType enumeration"
+      ]
     }
   ]
 }
