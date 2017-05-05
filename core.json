@@ -255,6 +255,15 @@
       "changes": [
         "updated for patch 7.9"
       ]
+    },
+    {
+      "md5": [
+        "ea0b51aebb1cb39b9f18a2ea7f178d2c"
+      ],
+      "build": "641",
+      "changes": [
+        "fixed some SpellData properties"
+      ]
     }
   ]
 }
