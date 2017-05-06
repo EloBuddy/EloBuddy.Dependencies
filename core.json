@@ -291,6 +291,15 @@
       "changes": [
         "anti-cheating update"
       ]
+    },
+    {
+      "md5": [
+        "cb6ed36e4773f48b3823714241cbf0dd"
+      ],
+      "build": "645",
+      "changes": [
+        "fixed Obj_AI_Base.OnDoCast"
+      ]
     }
   ]
 }
