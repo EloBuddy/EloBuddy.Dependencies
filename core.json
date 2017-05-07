@@ -300,6 +300,15 @@
       "changes": [
         "fixed Obj_AI_Base.OnDoCast"
       ]
+    },
+    {
+      "md5": [
+        "daa46d3c705ea57a73dd2719b1437c4d"
+      ],
+      "build": "646",
+      "changes": [
+        "fixed Obj_AI_Base.OnDoCast 2"
+      ]
     }
   ]
 }
