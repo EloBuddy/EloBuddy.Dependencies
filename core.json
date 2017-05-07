@@ -309,17 +309,6 @@
       "changes": [
         "fixed Obj_AI_Base.OnDoCast 2"
       ]
-    },
-    {
-      "md5": [
-        "1670586e133e27a0a9b7ac8f7dbfab3b"
-      ],
-      "build": "647",
-      "changes": [
-        "fixed Obj_AI_Base.ServerPosition",
-        "fixed Obj_AI_Base.OnUpdateBuff",
-        "added Game.OnBugSplat"
-      ]
     }
   ]
 }
