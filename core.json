@@ -309,6 +309,17 @@
       "changes": [
         "fixed Obj_AI_Base.OnDoCast 2"
       ]
+    },
+    {
+      "md5": [
+        "e9856f6353c10ad4627f76b3c6d2d977"
+      ],
+      "build": "648",
+      "changes": [
+        "fixed Obj_AI_Base.OnUpdateBuff",
+        "fixed Obj_AI_Base.AllShield/MagicShield/Physicalshield",
+        "added Game.OnBugSplat"
+      ]
     }
   ]
 }
