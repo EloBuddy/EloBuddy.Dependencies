@@ -320,6 +320,19 @@
         "fixed Obj_AI_Base.AllShield/MagicShield/Physicalshield",
         "added Game.OnBugSplat"
       ]
+    },
+    {
+      "md5": [
+        "d98e94e87c212556e80ae373fc58b8dc"
+      ],
+      "build": "649",
+      "changes": [
+        "deprecated: Obj_AI_Base.ExpGiveRadius, Obj_AI_Base.AutoAttackTargettingFlags, Obj_AI_Base.PlayerControlled",
+        "fixed: Game.OnAfk",
+        "fixed: Game.OnDisconnect",
+        "fixed: Game.OnEnd",
+        "fixed: Player.DoMasteryBadge"
+      ]
     }
   ]
 }
