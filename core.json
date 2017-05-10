@@ -333,6 +333,17 @@
         "fixed: Game.OnEnd",
         "fixed: Player.DoMasteryBadge"
       ]
+    },
+    {
+      "md5": [
+        "b2d19a72dfb3a037002cc850506ab2e2"
+      ],
+      "build": "650",
+      "changes": [
+        "added: GameObject.OnGainVision",
+        "added: GameObject.OnLoseVision",
+        "fixed: Obj_AI_Base.Direction"
+      ]
     }
   ]
 }
