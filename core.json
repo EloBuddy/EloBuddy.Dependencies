@@ -344,6 +344,15 @@
         "added: GameObject.OnLoseVision",
         "fixed: Obj_AI_Base.Direction"
       ]
+    },
+    {
+      "md5": [
+        "3ee3f70f12d8f4b46e38311d570c3928"
+      ],
+      "build": "651",
+      "changes": [
+        "fixed a crash when reloading addons (f6/f5)"
+      ]
     }
   ]
 }
