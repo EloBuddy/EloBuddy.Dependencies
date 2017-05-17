@@ -353,6 +353,16 @@
       "changes": [
         "fixed a crash when reloading addons (f6/f5)"
       ]
+    },
+    {
+      "md5": [
+        "f7c53df89d01682cb5da9b98d55a8be4"
+      ],
+      "build": "660",
+      "changes": [
+        "updated for patch 7.10",
+        "anti-cheating updated"
+      ]
     }
   ]
 }
