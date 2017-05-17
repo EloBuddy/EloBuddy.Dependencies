@@ -363,6 +363,16 @@
         "updated for patch 7.10",
         "anti-cheating updated"
       ]
+    },
+    {
+      "md5": [
+        "0ef75c9d549c80eae98085b02ec4d76b"
+      ],
+      "build": "661",
+      "changes": [
+        "Garena demacia update (game will exit on unknown module)",
+        "fixed Obj_AI_Base.InventoryItems"
+      ]
     }
   ]
 }
