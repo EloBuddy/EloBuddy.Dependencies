@@ -373,6 +373,24 @@
         "Garena demacia update (game will exit on unknown module)",
         "fixed Obj_AI_Base.InventoryItems"
       ]
+    },
+    {
+      "md5": [
+        "24ea563ec828747631e97243697c94bd"
+      ],
+      "build": "662",
+      "changes": [
+        "--"
+      ]
+    },
+    {
+      "md5": [
+        "c4ac613a93a83156a1c0a4be48c7f529"
+      ],
+      "build": "664",
+      "changes": [
+        "bump core version"
+      ]
     }
   ]
 }
