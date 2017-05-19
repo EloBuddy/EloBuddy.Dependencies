@@ -391,15 +391,6 @@
       "changes": [
         "bump core version"
       ]
-    },
-    {
-      "md5": [
-        "96f54066311e5e7a0d12dc5def98aa53"
-      ],
-      "build": "665",
-      "changes": [
-        "updated for garena 7.10-hf"
-      ]
     }
   ]
 }
