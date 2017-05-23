@@ -409,6 +409,15 @@
       "changes": [
         "updated Garena 7.10-hf"
       ]
+    },
+    {
+      "md5": [
+        "36c32a65b15c9934a44676314703831f"
+      ],
+      "build": "672",
+      "changes": [
+        "fixed Shop.CanShop"
+      ]
     }
   ]
 }
