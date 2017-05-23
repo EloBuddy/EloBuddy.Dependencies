@@ -400,6 +400,15 @@
       "changes": [
         "updated Riot 7.10-hf"
       ]
+    },
+    {
+      "md5": [
+        "17fa1cbfc80bed7730e4e3ea8ad34497"
+      ],
+      "build": "671",
+      "changes": [
+        "updated Garena 7.10-hf"
+      ]
     }
   ]
 }
