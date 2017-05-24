@@ -222,7 +222,7 @@
         }
       }
     },
-    "1bed5f4c5597dd818442035b7ba13c68": {
+    "1bed5f4c5597dd818442035b7ba13c68x": {
       "Files": {
         "System\\EloBuddy.dll": {
           "MD5": "93b8a34998c63d993912d1999e3b3c7e",
@@ -237,11 +237,11 @@
     "269dbe7976788af8594600831ebf038e": {
       "Files": {
         "System\\EloBuddy.dll": {
-          "MD5": "44e473d1cdb381103dc5e134e4e7a4d9",
+          "MD5": "0a746d0a930ee337a1eb964bcddc6c15",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.10-riot-hf/EloBuddy.dll"
         },
         "System\\EloBuddy.Core.dll": {
-          "MD5": "17fa1cbfc80bed7730e4e3ea8ad34497",
+          "MD5": "36c32a65b15c9934a44676314703831f",
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.10-riot-hf/EloBuddy.Core.dll"
         }
       }
