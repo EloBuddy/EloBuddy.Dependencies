@@ -418,6 +418,15 @@
       "changes": [
         "fixed Shop.CanShop"
       ]
+    },
+    {
+      "md5": [
+        "1d5afb6138c88bd5f3e03cec4918fb60"
+      ],
+      "build": "673",
+      "changes": [
+        "updated for Garena-hf-2"
+      ]
     }
   ]
 }
