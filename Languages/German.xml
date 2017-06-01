@@ -78,4 +78,4 @@ UpdateStatusSystemFiles="Update system Dateien"
 LabelForgotPassword="Passwort vergessen?" 
 LabelCreateAccount ="Erstelle Account" 
 LabelRemember ="Erinnere mich" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
+xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=Loader" />

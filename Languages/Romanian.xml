@@ -78,4 +78,4 @@ UpdateStatusSystemFiles="Actualizare fișiere sistem"
 LabelForgotPassword="V-ați uitat parola?" 
 LabelCreateAccount ="Creează Addon" 
 LabelRemember ="Reține" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
+xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=Loader" />
