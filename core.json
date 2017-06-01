@@ -464,6 +464,15 @@
       "changes": [
         "fixed BuffInstance.Type"
       ]
+    },
+    {
+      "md5": [
+        "e2ac5691f931e1d58d773fa54683787b"
+      ],
+      "build": "684",
+      "changes": [
+        "fixed BuffInstance.Type-2"
+      ]
     }
   ]
 }
