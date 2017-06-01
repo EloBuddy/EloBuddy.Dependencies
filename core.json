@@ -436,6 +436,16 @@
       "changes": [
         "updated for 7.11"
       ]
+    },
+    {
+      "md5": [
+        "47512e7d908cf9a367135759d229cca9"
+      ],
+      "build": "681",
+      "changes": [
+        "fixed BuffInstance.Count",
+        "fixed Obj_AI_Base.OnSpellCast"
+      ]
     }
   ]
 }
