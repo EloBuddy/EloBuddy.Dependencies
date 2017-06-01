@@ -446,6 +446,15 @@
         "fixed BuffInstance.Count",
         "fixed Obj_AI_Base.OnSpellCast"
       ]
+    },
+    {
+      "md5": [
+        "1668170f1a2d22051bad30915790387b"
+      ],
+      "build": "682",
+      "changes": [
+        "fixed crashes-2"
+      ]
     }
   ]
 }
