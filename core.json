@@ -427,6 +427,15 @@
       "changes": [
         "updated for Garena-hf-2"
       ]
+    },
+    {
+      "md5": [
+        "6808983487c290e7c985f348f7991f72"
+      ],
+      "build": "680",
+      "changes": [
+        "updated for 7.11"
+      ]
     }
   ]
 }

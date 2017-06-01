@@ -13,7 +13,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/LibGit2Sharp.dll"
     },
     "System\\EloBuddy.Sandbox.dll": {
-      "MD5": "82a054b779e1a9cbf8bc0869bde0299c",
+      "MD5": "8c89f407aa0429b1dc1bcfd726efb93c",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.Fedora.dll": {
@@ -52,9 +52,9 @@
       "MD5": "7959172ca21de68f8209c9bb2e20ca90",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Dependencies/PresentationFramework.Aero.dll"
     },
-    "EloBuddy.Loader.exe.config": {
+    "Loader.exe.config": {
       "MD5": "c579b61be703a929f41a2bbf451b33eb",
-      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe.config"
+      "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe.config"
     },
     "Dependencies\\EloBuddy.Networking.dll": {
       "MD5": "930f59fe04cc2f72653e92c78a2e9233",
@@ -269,10 +269,22 @@
           "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.10-garena-h2/EloBuddy.Core.dll"
         }
       }
+    },
+    "d01cc67ae88f7eae4f1d4bc346ac8fc5": {
+      "Files": {
+        "System\\EloBuddy.dll": {
+          "MD5": "1b03a6eeb3ab10842f98e8bd5925309c",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.11/EloBuddy.dll"
+        },
+        "System\\EloBuddy.Core.dll": {
+          "MD5": "6808983487c290e7c985f348f7991f72",
+          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/7.11/EloBuddy.Core.dll"
+        }
+      }
     }
   },
   "Loader": {
     "MD5": "22f45040fa0bfda3d186ab029086a76e",
-    "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/EloBuddy.Loader.exe"
+    "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Loader/Loader.exe"
   }
 }
