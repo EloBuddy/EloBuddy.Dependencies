@@ -84,4 +84,3 @@ UpdateStatusInstallingFiles = "Dosyalar yükleniyor"
 UpdateStatusLoader = "EloBuddy.Loader güncelleniyor" 
 UpdateStatusPatchFiles = "Yama dosyaları güncelleniyor" 
 UpdateStatusSystemFiles = "Sistem dosyaları güncelleniyor" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
