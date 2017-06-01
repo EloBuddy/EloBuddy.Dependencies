@@ -79,4 +79,4 @@ LabelForgotPassword="Mot de passe oublié?"
 LabelCreateAccount ="Créer un compte" 
 LabelRemember ="Se souvenir de moi" 
 LabelDisableRangeIndicator ="Désactiver l'indicateur de portée" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
+xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=Loader" />

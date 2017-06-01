@@ -78,4 +78,4 @@ UpdateStatusSystemFiles="Cập nhật system files"
 LabelForgotPassword="Quên mật khẩu?" 
 LabelCreateAccount ="Tạo tài khoản" 
 LabelRemember ="Nhớ tài khoản" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
+xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=Loader" />

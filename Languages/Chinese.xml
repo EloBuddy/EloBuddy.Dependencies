@@ -84,4 +84,4 @@ UpdateStatusInstallingFiles="安装文件当中"
 UpdateStatusLoader="正在更新EloBuddy.Loader" 
 UpdateStatusPatchFiles="正在更新补丁文件" 
 UpdateStatusSystemFiles="正在更新系统文件" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
+xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=Loader" />

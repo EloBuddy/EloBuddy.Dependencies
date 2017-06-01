@@ -78,4 +78,4 @@ UpdateStatusSystemFiles="시스템 파일 업데이트 중"
 LabelForgotPassword="비밀번호를 잊으셨나요?" 
 LabelCreateAccount ="계정 만들기" 
 LabelRemember ="로그인 상태 유지" 
-xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=EloBuddy.Loader" />
+xmlns="clr-namespace:EloBuddy.Loader.Globals;assembly=Loader" />
