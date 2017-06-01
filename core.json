@@ -455,6 +455,15 @@
       "changes": [
         "fixed crashes-2"
       ]
+    },
+    {
+      "md5": [
+        "ac2c966e3c292cb177d5277e133780e7"
+      ],
+      "build": "683",
+      "changes": [
+        "fixed BuffInstance.Type"
+      ]
     }
   ]
 }
