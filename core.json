@@ -482,6 +482,15 @@
       "changes": [
         "bug fixes"
       ]
+    },
+    {
+      "md5": [
+        "09f608a67ae4349db19bc9c44eb7d283"
+      ],
+      "build": "686",
+      "changes": [
+        "updated for Garena 7.11-hf"
+      ]
     }
   ]
 }
