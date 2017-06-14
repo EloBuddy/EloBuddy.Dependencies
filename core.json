@@ -491,6 +491,15 @@
       "changes": [
         "updated for Garena 7.11-hf"
       ]
+    },
+    {
+      "md5": [
+        "f191b936c59004cfd41f8953ef291c8e"
+      ],
+      "build": "690",
+      "changes": [
+        "updated for 7.12"
+      ]
     }
   ]
 }
