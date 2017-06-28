@@ -509,6 +509,15 @@
       "changes": [
         "updated for Garena 7.12-hf"
       ]
+    },
+    {
+      "md5": [
+        "fc6283216cf4d994d8242134d5009eb6"
+      ],
+      "build": "700",
+      "changes": [
+        "updated for 7.13"
+      ]
     }
   ]
 }
