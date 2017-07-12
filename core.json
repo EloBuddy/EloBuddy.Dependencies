@@ -527,6 +527,15 @@
       "changes": [
         "updated for 7.14"
       ]
+    },
+    {
+      "md5": [
+        "2b94edd0dd09fa5c6d4c548761a4b636"
+      ],
+      "build": "711",
+      "changes": [
+        "various API fixes"
+      ]
     }
   ]
 }
