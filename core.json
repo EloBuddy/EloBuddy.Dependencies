@@ -545,6 +545,15 @@
       "changes": [
         "fixed Obj_AI_Base.ISHPBarRendered"
       ]
+    },
+    {
+      "md5": [
+        "bc9db9b9ff79af452671643978a7f08d"
+      ],
+      "build": "713",
+      "changes": [
+        "add the new champion"
+      ]
     }
   ]
 }
