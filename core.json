@@ -536,6 +536,15 @@
       "changes": [
         "various API fixes"
       ]
+    },
+    {
+      "md5": [
+        "bc9db9b9ff79af452671643978a7f08d"
+      ],
+      "build": "712",
+      "changes": [
+        "fixed Obj_AI_Base.ISHPBarRendered"
+      ]
     }
   ]
 }
