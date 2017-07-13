@@ -554,6 +554,15 @@
       "changes": [
         "add the new champion"
       ]
+    },
+    {
+      "md5": [
+        "e9e54f67d6f4fe27456c8bb57769b9a5"
+      ],
+      "build": "714",
+      "changes": [
+        "fixed Obj_AI_Base.IsMinion"
+      ]
     }
   ]
 }
