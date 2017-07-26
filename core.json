@@ -581,6 +581,15 @@
       "changes": [
         "fix BuyItem crash"
       ]
+    },
+    {
+      "md5": [
+        "5447062a18ecf640f142486feae40949"
+      ],
+      "build": "802",
+      "changes": [
+        "fixed orbwalker issues (Spellbook.OnStopCast)"
+      ]
     }
   ]
 }
