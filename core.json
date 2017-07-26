@@ -572,6 +572,15 @@
       "changes": [
         "7.15 updated"
       ]
+    },
+    {
+      "md5": [
+        "2db399b2feee46e83c8a51d161054d39"
+      ],
+      "build": "801",
+      "changes": [
+        "fix BuyItem crash"
+      ]
     }
   ]
 }
