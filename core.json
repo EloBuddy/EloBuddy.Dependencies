@@ -590,6 +590,15 @@
       "changes": [
         "fixed orbwalker issues (Spellbook.OnStopCast)"
       ]
+    },
+    {
+      "md5": [
+        "8bc0b4cb8e71247fff98ed3f779670f0"
+      ],
+      "build": "803",
+      "changes": [
+        "bump game version (core)"
+      ]
     }
   ]
 }
