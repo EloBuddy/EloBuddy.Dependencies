@@ -563,6 +563,15 @@
       "changes": [
         "fixed Obj_AI_Base.IsMinion"
       ]
+    },
+    {
+      "md5": [
+        "e2d7bc20348a013451f6ebba9072e8da"
+      ],
+      "build": "800",
+      "changes": [
+        "7.15 updated"
+      ]
     }
   ]
 }
