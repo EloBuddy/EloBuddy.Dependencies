@@ -599,6 +599,15 @@
       "changes": [
         "bump game version (core)"
       ]
+    },
+    {
+      "md5": [
+        "41b5e1c54a2d52e15dcbcf4493aabaf0"
+      ],
+      "build": "804",
+      "changes": [
+        "fix Obj_AI_Base.OnUpdateBuff (fixes crash in loading screen)"
+      ]
     }
   ]
 }
