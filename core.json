@@ -634,6 +634,15 @@
         "",
         "Menu / Sprites will be fixed soon"
       ]
+    },
+    {
+      "md5": [
+        "7df1407b6bcfefe634dfa41cab9e98a8"
+      ],
+      "build": "903",
+      "changes": [
+        "fixed blurry/invisible Menu/Sprites"
+      ]
     }
   ]
 }
