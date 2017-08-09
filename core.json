@@ -643,6 +643,15 @@
       "changes": [
         "fixed blurry/invisible Menu/Sprites"
       ]
+    },
+    {
+      "md5": [
+        "ef3ea0612b8cdb7525607a1ecba55ff5"
+      ],
+      "build": "904",
+      "changes": [
+        "small API fixes"
+      ]
     }
   ]
 }
