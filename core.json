@@ -608,6 +608,15 @@
       "changes": [
         "fix Obj_AI_Base.OnUpdateBuff (fixes crash in loading screen)"
       ]
+    },
+    {
+      "md5": [
+        "8bf45737402e674292873ddc920a774b"
+      ],
+      "build": "900",
+      "changes": [
+        "updated for patch 7.16"
+      ]
     }
   ]
 }
