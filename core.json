@@ -617,6 +617,23 @@
       "changes": [
         "updated for patch 7.16"
       ]
+    },
+    {
+      "md5": [
+        "ac0defc1fef00bea99453e5722b38509"
+      ],
+      "build": "901",
+      "changes": [
+        "added:",
+        "  Obj_AI_Base.MinimumGold",
+        "  Obj_AI_Base.SkillUpLevelDeltaReplicate",
+        "  Obj_AI_Base.PhysicalLethality",
+        "  Obj_AI_Base.MagicLethality",
+        "  Obj_AI_Base.PercentBonusMagicPenetration",
+        "  Obj_AI_Base.PercentBonusArmorPenetration",
+        "",
+        "Menu / Sprites will be fixed soon"
+      ]
     }
   ]
 }
